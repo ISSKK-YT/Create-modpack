@@ -1,0 +1,4 @@
+*.jar
+!overrides/mods/*.jar
+.DS_Store
+*.log
